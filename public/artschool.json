@@ -1,0 +1,114 @@
+[
+    {
+        "name":"Abstracting from the Image",
+        "key":"a",
+        "img":"https://i.ibb.co/Kh9yw5Z/image2.jpg",
+        "category":"drawing",
+        "time":" 8:45am – 12:30pm",
+        "description":"Abstract photography, sometimes called non-objective, experimental or conceptual photography, is a means of depicting a visual image that does not have an immediate association with the object world ",
+        "days":"Monday-Friday",
+        "cost":"$250"
+    },
+    {
+        "name":"Drawing from life and Culture",
+        "key":"b",
+        "img":"https://i.ibb.co/TDX4QHd/image3.jpg",
+        "category":"drawing",
+        "time":" 8:00am – 12:00pm",
+        "description":"During the same decades that Georgia O'Keefe was making her dramatic modernist flower paintings, a botanical artist named Maud Purdy was also creating flo.",
+        "days":"Saterday-Friday",
+        "cost":"$150"
+    },
+    {
+        "name":"Painting,drawing and Color",
+        "key":"c",
+        "img":"https://i.ibb.co/QYrptJY/image4.jpg",
+        "category":"drawing",
+        "time":" 8:45am – 12:30pm",
+        "description":"Every color has three qualities: temperature, intensity and value. The combination of these three qualities gives paintings an illusion of depth and form.",
+        "days":"Monday-Friday",
+        "cost":"$90"
+    },
+    {
+        "name":"3 Dimensional sculpture",
+        "key":"d",
+        "img":"https://i.ibb.co/F82GmPq/image5.jpg",
+        "category":"drawing",
+        "time":" 8:45am – 12:30pm",
+        "description":"Three-dimensional art pieces, presented in the dimensions of height, width, and depth, occupy physical space and can be perceived from all sides and angles.",
+        "days":"Monday-Saterday",
+        "cost":"$100"
+    },
+    {
+        "name":"Relief Artistry sculpture",
+        "key":"e",
+        "img":"https://i.ibb.co/R9sJzPB/image6.jpg",
+        "category":"sculpture",
+        "time":" 8:45am – 12:30pm",
+        "days":"Monday-Friday",
+        "cost":"$200"
+    },
+    {
+        "name":"Photography in Art Culture",
+        "key":"f",
+        "img":"https://i.ibb.co/GxYNkX2/image7.jpg",
+        "category":"sculpture",
+        "time":" 9:45am – 12:30pm",
+        "days":"Monday-Friday",
+        "cost":"$150"
+    },
+    {
+        "name":"Advanced digital Art",
+        "key":"g",
+        "img":"https://i.ibb.co/KV2mmSR/image8.jpg",
+        "category":"digital",
+        "time":" 8:45am – 10:30pm",
+        "days":"Monday-Friday",
+        "cost":"$50"
+    },
+    {
+        "name":"Anatomical drawing",
+        "key":"h",
+        "img":"https://i.ibb.co/BVYvGzP/image9.jpg",
+        "category":"drawing",
+        "time":" 8:45am – 12:30pm",
+        "days":"Monday-Friday",
+        "cost":"$300"
+    },
+    {
+        "name":"Carving in Wood sculpture",
+        "key":"i",
+        "img":"https://i.ibb.co/rcGKfPX/image10.jpg",
+        "category":"sculpture",
+        "time":" 8:45am – 12:30pm",
+        "days":"Monday-Thusday",
+        "cost":"$280"
+    },
+    {
+        "name":"Color for Designers",
+        "key":"j",
+        "img":"https://i.ibb.co/b2XftS4/image11.jpg",
+        "category":"digital",
+        "time":" 10:45am – 12:30pm",
+        "days":"Sunday-Friday",
+        "cost":"$100"
+    },
+    {
+        "name":"iPhoneography Workshop",
+        "key":"k",
+        "img":"https://i.ibb.co/R3cVgqs/image12.jpg",
+        "category":"digital",
+        "time":" 8:00am – 12:30pm",
+        "days":"Monday-Friday",
+        "cost":"$250"
+    },
+    {
+        "name":"Typography Fundamentals",
+        "key":"l",
+        "img":"https://i.ibb.co/HYnSDPh/image13.jpg",
+        "category":"digital",
+        "time":" 8:45am – 12:30pm",
+        "days":"Monday-Friday",
+        "cost":"$250"
+    }
+]

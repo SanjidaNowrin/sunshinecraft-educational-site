@@ -1,0 +1,86 @@
+.contact-body {
+  width: 100%;
+  display: grid;
+  align-items: center;
+  background: #dfc2f2;
+  background-image: linear-gradient(to right, #ffffb3, #ffe6e6);
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Playfair Display, serif;
+}
+
+.contact-in {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  margin-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px #666;
+  margin-top: 70px;
+}
+
+.contact-map {
+  width: 100%;
+  height: auto;
+  flex: 50%;
+}
+.contact-map iframe {
+  width: 100%;
+  height: 100%;
+}
+.contact-form {
+  width: 100%;
+  height: auto;
+  flex: 50%;
+  padding: 30px;
+  text-align: center;
+}
+.contact-form h1 {
+  margin-bottom: 10px;
+  color: #4e4841;
+}
+
+.contact-form-txt {
+  width: 100%;
+  height: 40px;
+  color: #000;
+  border: 1px solid #bcbcbc;
+  border-radius: 50px;
+  outline: none;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+.contact-form-txt::placeholder {
+  color: #aaa;
+}
+.contact-form-textarea {
+  width: 100%;
+  height: 130px;
+  color: #000;
+  border: 1px solid #bcbcbc;
+  border-radius: 10px;
+  outline: none;
+  margin-bottom: 20px;
+  padding: 15px;
+  font-family: "Poppins", sans-serif;
+}
+.contact-form-textarea::placeholder {
+  color: #aaa;
+}
+
+.contact-form-btn {
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  color: white;
+  background-color: #e66b19;
+  text-transform: uppercase;
+  padding: 10px 0;
+  cursor: pointer;
+  font-size: 18px;
+}

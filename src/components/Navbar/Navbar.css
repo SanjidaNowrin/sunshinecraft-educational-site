@@ -1,0 +1,27 @@
+.backround {
+  background-color: #2f2b27;
+  padding: 10px;
+}
+p {
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+}
+.logo-img {
+  width: 10%;
+  height: 10%;
+}
+.items {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+.items:hover {
+  color: #ffb200;
+}
