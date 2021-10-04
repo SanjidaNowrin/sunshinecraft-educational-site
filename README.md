@@ -1,6 +1,6 @@
 # SUNSHINE CRAFT
 
-## Live Website Link [Click here]()
+## Live Website Link [Click here](https://sunshinecraft-educational-site.netlify.app/)
 
 ## Overview
 

@@ -1,0 +1,9 @@
+.purchase-btn {
+  background-color: #5e76bf;
+  color: white;
+  border: 1px solid #5e76bf;
+  border-radius: 25px;
+  padding: 5px;
+  cursor: pointer;
+  margin-top: 18px;
+}

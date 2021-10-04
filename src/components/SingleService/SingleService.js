@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./SingleService.css";
 const SingleService = (props) => {
   const { name, category, img, time, days, cost } = props.service;
   return (
@@ -18,6 +18,7 @@ const SingleService = (props) => {
                 <h5>Days:{days}</h5>
                 <h5>Cost:{cost}</h5>
               </div>
+              <button className="container purchase-btn">Purchase</button>
             </div>
           </div>
         </div>
