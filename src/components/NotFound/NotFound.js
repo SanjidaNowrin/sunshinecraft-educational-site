@@ -10,7 +10,7 @@ const NotFound = () => {
         width="424px"
         height="231px"
       />
-      <div className="mt-5 text-center text-danger">
+      <div className="mt-5 text-center text-danger mb-5">
         <h2>Page not found</h2>
         <h5>The page you want to go is not currently available</h5>
       </div>
