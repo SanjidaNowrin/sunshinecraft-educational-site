@@ -18,7 +18,7 @@ const SingleService = (props) => {
                 <h5>Days:{days}</h5>
                 <h5>Cost:{cost}</h5>
               </div>
-              <button className="container purchase-btn p-2">Purchase</button>
+              <button className="container purchase-btn p-2">Enroll Now</button>
             </div>
           </div>
         </div>

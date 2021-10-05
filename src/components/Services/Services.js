@@ -23,9 +23,18 @@ const Services = () => {
   return (
     <div>
       <div style={{ backgroundColor: "#f7f8fc" }}>
+        <h1
+          className="text-center mt-3"
+          style={{
+            color: "#4e4841",
+            fontFamily: "Playfair Display, serif",
+          }}
+        >
+          Our Services
+        </h1>
         {/* select section */}
         <div className="container">
-          <div className="p-4 m-3 w-75">
+          <div className="p-4 m-2 w-75">
             <select
               value={catagoryValue}
               className="form-select "
