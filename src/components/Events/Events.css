@@ -1,0 +1,23 @@
+.event-title {
+  color: #4e4841;
+  margin-top: 2rem;
+  font-family: Playfair Display, serif;
+  font-size: 3.429em;
+  font-weight: 700;
+  padding: 0;
+  text-align: center;
+}
+.event-color {
+  color: #4e4841;
+  font-family: Playfair Display, serif;
+  font-size: 2em;
+  font-weight: 700;
+}
+.icon-color {
+  color: rgb(208, 91, 45);
+  font-weight: 700;
+  font-family: Playfair Display, serif;
+}
+.btn-color {
+  background-color: rgb(208, 91, 45);
+}

@@ -13,27 +13,27 @@ const Footer = () => {
         </p>
         <ul className="socials">
           <li>
-            <a href="#">
+            <a href="https://www.facebook.com/">
               <i className="fa fa-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://twitter.com/">
               <i className="fa fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://takeout.google.com">
               <i className="fa fa-google-plus"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.youtube.com/">
               <i className="fa fa-youtube"></i>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.linkedin.com/feed/">
               <i className="fa fa-linkedin-square"></i>
             </a>
           </li>

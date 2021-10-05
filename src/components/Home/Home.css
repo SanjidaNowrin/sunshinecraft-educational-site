@@ -42,3 +42,10 @@ span {
 .header-button:hover {
   color: white !important;
 }
+.services-text {
+  color: #4e4841;
+  margin-top: 2rem;
+  font-family: Playfair Display, serif;
+  font-size: 3.429em;
+  font-weight: 700;
+}
