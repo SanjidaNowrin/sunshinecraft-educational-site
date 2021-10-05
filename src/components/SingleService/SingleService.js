@@ -7,7 +7,7 @@ const SingleService = (props) => {
       <div className="container">
         <div className="card">
           <div className="card-header">
-            <img src={img} alt="" />
+            <img src={img} alt="" className="rounded-3 mt-2" />
           </div>
           <div className="card-body">
             <span className="tag tag-purple">{category}</span>

@@ -24,10 +24,11 @@ const Services = () => {
     <div>
       <div style={{ backgroundColor: "#f7f8fc" }}>
         <h1
-          className="text-center mt-3"
+          className="text-center"
           style={{
             color: "#4e4841",
             fontFamily: "Playfair Display, serif",
+            paddingTop: "18px",
           }}
         >
           Our Services
