@@ -14,7 +14,13 @@ const Home = () => {
       {/* Banner section */}
       <div className="hero-image">
         <div className="hero-text">
-          <h1 style={{ fontSize: "3rem", marginBottom: "23px" }}>
+          <h1
+            style={{
+              fontSize: "3.8rem",
+              marginBottom: "23px",
+              fontFamily: "Playfair Display, serif",
+            }}
+          >
             Pursue <span>your</span> passion. <br></br>Create your{" "}
             <span>life</span>.
           </h1>
@@ -30,6 +36,7 @@ const Home = () => {
           <Service service={service} key={service.key}></Service>
         ))}
       </div>
+      {/* events */}
       <Events></Events>
     </div>
   );
